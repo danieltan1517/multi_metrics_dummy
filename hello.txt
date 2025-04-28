@@ -1,1 +1,10 @@
 Hello! This is some code.
+
+To use git, do
+
+git add hello.txt
+git commit -m "some commit message"
+
+To push to github, do:
+
+git push
